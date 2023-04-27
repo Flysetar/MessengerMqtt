@@ -20,6 +20,5 @@ Projet réaliser : création d'un application de messagerie  en temps réel con�
 - Problème de configuration lié au JavaScript. Problème d'import de la librairie mqtt dans ma page HTML.
 - Problème lié à l'actualisation en temps réel de la liste des utilisateurs stockée dans le client mqtt.js
 
-Le client interagissant avec mqtt fonctionne, nous pouvons l'utiliser en appelant directement les fonctions JS définies dans le fichier mqtt client. 
-Nous recevons également les retours renvoyés par le broker.
-A cause des nombreux soucis de configuration liés à l'intégration front le client final ne fonctionne pas.
+Le client mqtt interagit correctement et peut être utilisé en appelant les fonctions JavaScript définies dans le fichier mqtt client. Les retours renvoyés par le broker sont également bien reçus. Cependant, en raison de multiples problèmes de configuration liés à l'intégration front-end, le client final n'est pas opérationnel.
+
