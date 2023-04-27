@@ -3,7 +3,6 @@ Projet réaliser : création d'un application de messagerie  en temps réel con�
 
 ## Fonctionnalitées
 
-- Import a HTML file and watch it magically convert to Markdown
 - Login avec un unsername (unique)
 - Chat général pour discuter 
 - Possibilité de créer un canal de discussion avec un nom 
