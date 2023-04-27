@@ -1,5 +1,5 @@
 # Messagerie MQTT
-Projet réaliser : création d'un application de messagerie  en temps réel conçut avec React, MQTT et Material-UI. Les utilisateurs ont la possibilité de créer ou de rejoindre des salons de discussion personnalisés basés sur un sujet unique. En outre, ils sont informés des connexions ou déconnexions d'autres utilisateurs et peuvent recevoir des notifications instantanées lors de l'arrivée de nouveaux messages.
+Projet réaliser : création d'un application de messagerie  en temps réel conçut avec JS, MQTT et Material-UI. Les utilisateurs ont la possibilité de créer ou de rejoindre des salons de discussion personnalisés basés sur un sujet unique. En outre, ils sont informés des connexions ou déconnexions d'autres utilisateurs et peuvent recevoir des notifications instantanées lors de l'arrivée de nouveaux messages.
 
 ## Fonctionnalitées
 
