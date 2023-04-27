@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat en temps réel</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Chat en temps réel</h1>
+        <div class="chat-area">
+            <div class="general-chat">
+                <h2>Chat général</h2>
+                <div id="general-chat-messages" class="messages"></div>
+                <form id="general-chat-form">
+                    <input type="text" id="general-chat-input" name="message" required>
+                    <button type="submit">Envoyer</button>
+                </form>
+            </div>
+            <div class="online-users">
+                <h2>Utilisateurs en ligne</h2>
+                <ul id="online-users-list"></ul>
+            </div>
+        </div>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>

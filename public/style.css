@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.chat-area {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.general-chat, .online-users {
+    flex: 1;
+    margin: 10px;
+}
+
+.messages {
+    border: 1px solid #ccc;
+    padding: 10px;
+    height: 300px;
+    overflow-y: scroll;
+}
+
+input[type="text"], button {
+    margin-top: 10px;
+}
