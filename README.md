@@ -15,7 +15,6 @@ Projet réaliser : création d'un application de messagerie  en temps réel con�
 
 - Partie interaction brocker mqtt: 
 - Je n'ai pas réussi à récupérer l'historique des messages présents dans la queue. 
-- 
 - Partie client (front) : 
 - Problème de configuration lié au JavaScript. Problème d'import de la librairie mqtt dans ma page HTML.
 - Problème lié à l'actualisation en temps réel de la liste des utilisateurs stockée dans le client mqtt.js
